@@ -1,0 +1,12 @@
+*.sum
+*.exe
+*.a
+*.tar.gz
+*.zip
+echo
+cecho
+libbase64.dylib
+libecho.a
+libecho.dylib
+libecho.h
+test

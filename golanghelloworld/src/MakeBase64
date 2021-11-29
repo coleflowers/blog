@@ -1,0 +1,2 @@
+default:
+	gcc -fPIC -shared ./base64/base64.c -o libbase64.dylib
